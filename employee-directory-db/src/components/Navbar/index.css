@@ -1,5 +1,6 @@
-nav.navbar.navbar-default {
+#heading {
     margin-bottom: 0;
-    background-color: darkblue;
-    font: white;
+    background-color: #000E49;
+    color: white;
+    margin-bottom: 20px;
   }

@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import "./style.css";
+import "./index.css";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Nav() {
 
     return (
-        <div className="jumbotron center">
+        <div className="jumbotron center" id='heading'>
             <h1>Employee Directory</h1>
             <p>Click on carrots to filter or use the search box to narrow your results</p>
         </div>
